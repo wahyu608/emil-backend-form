@@ -1,0 +1,15 @@
+# Environment variable file
+.env
+
+# Node modules directory
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
